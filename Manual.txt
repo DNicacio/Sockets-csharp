@@ -1,0 +1,20 @@
+Aluno : Daniel José Nicacio
+Matrícula: 1610486
+-----------MANUAL-----------
+
+Linguagem: C#
+Aplicação: Windows form
+
+PARA EXECUTAR:
+1 - Abra o arquivo Sockets.exe na pasta "Executável";
+2 - Informe o IP e a Porta do Cliente no form "Servidor" e clique em "Estabelecer Conexão";
+3 - No form Cliente, informe o  IP de destino, a porta e selecione o arquivo;
+4 - O Servidor receberá o arquivo e salvará em C:
+
+PARA COMPILAR:
+(É necessário ter o Visual Studio instalado)
+1 - Abra o arquivo Sockets.sln;
+2 - Compilar ou Iniciar;
+3 - Os mesmos forms serão abetos e pode realizar os mesmos passos.
+
+----------------------------
